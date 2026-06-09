@@ -148,5 +148,5 @@ streamlit run app.py
 ## 🌐 Live Demo
 
 ```text
-https://your-streamlit-app-url.streamlit.app/
+https://malshiprabodha-liver-cirrhosis-stage-detection-app-r9ubuy.streamlit.app/
 ```
